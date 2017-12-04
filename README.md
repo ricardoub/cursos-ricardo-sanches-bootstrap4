@@ -1,5 +1,8 @@
-# Passo a passo do projeto
+# Curso de Bootstrap 4 do Ricardo Sanches
+## [Link do curso](https://www.youtube.com/playlist?list=PLBbHLUbqqCrTwIrdix6kl84m4OPE0JexR)
 
+# Passo a passo do projeto do curso
+## [Link do projeto](https://github.com/ricardoub/cursos-ricardo-sanches-bootstrap4)
 ## Dependências de sistema
 ```
 sudo apt-get install ruby ruby-sass
