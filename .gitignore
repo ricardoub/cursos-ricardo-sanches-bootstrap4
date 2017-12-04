@@ -1,0 +1,12 @@
+# Dependency directories
+bower_components
+node_modules/
+jspm_packages/
+
+# Optional cache directory
+.npm
+.sass-cache
+.eslintcache
+
+# dotenv environment variables file
+.env
